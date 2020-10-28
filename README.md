@@ -9,3 +9,4 @@ All samples are in Giter8 template format. Please use [go-giter8](https://github
 Available samples:
 
 - [basic](https://github.com/btnguyen2k/gosample-echo.g8/tree/sample-basic): a simple web application with Echo.
+- [cookie](https://github.com/btnguyen2k/gosample-echo.g8/tree/sample-cookie): a sample web application that read/write cookies.
