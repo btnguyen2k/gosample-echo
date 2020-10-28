@@ -1,15 +1,11 @@
-`gosample-echo`: a simple web application in Echo.
+`gosample-echo`: sample application to read/write cookies in Echo.
 
 ### What are included in this sample?
 
-- Simple web application with handlers for `GET`, `HEAD`, `DELETE`, `POST`, `PUT` and `PATCH` requests.
-- Retrieve request data:
-  - Method (`GET`, `PUT`, `POST`, etc)
-  - Request uri, path, query string and host
-  - Query parameters
-  - Headers
-  - Cookies
-  - Request body as string
+- Sample application to demonstrate cookies with Echo:
+  - Read all cookies
+  - Set/Add a cookie
+  - Remove an existing cookie
 
 ### Install `go-giter8`
 
@@ -18,7 +14,7 @@ This a Giter8 template, use [go-giter8](https://github.com/btnguyen2k/go-giter8)
 ### Generate project from the template
 
 ```
-g8 new btnguyen2k/gosample-echo.g8@sample-basic
+g8 new btnguyen2k/gosample-echo.g8@sample-cookie
 ```
 
 and follow the instructions.
