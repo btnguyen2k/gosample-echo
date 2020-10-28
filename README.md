@@ -4,7 +4,7 @@ All samples are in Giter8 template format. Please use [go-giter8](https://github
 
 Available samples:
 
-- [basic](tree/sample-basic): a simple web application with Echo.
+- [basic](/btnguyen2k/gosample-echo.g8/tree/sample-basic): a simple web application with Echo.
 
 > You are free to use these samples for personal, educational and commercial purposes.
 > Issues and PRs are always welcome!
