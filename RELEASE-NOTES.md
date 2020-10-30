@@ -1,3 +1,3 @@
-## 2020-10-28
+## 2020-10-30
 
-Sample application to read/write cookies in Echo.
+Sample application to read/write sessions in Echo.
