@@ -3,8 +3,8 @@ A simple web application in Echo.
 
 By Thanh Ba Nguyen @ btnguyen2k/gosample-echo.g8
 
-Summary: the straight forward approach is to register each path and HTTP method with a handler function, e.g. e.GET("/", handlerHello)
-The handler function follows the signature: func (ctx echo.Context) error
+Summary: the straight forward approach is to register each path and HTTP method with a handler function, e.g. e.GET("/", handlerHello).
+The handler function follows the signature: func (ctx echo.Context) error. The passed echo.Context has all necessary functions to work with (HTTP) request and response. 
 */
 package main
 
