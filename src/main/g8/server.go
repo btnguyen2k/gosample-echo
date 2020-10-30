@@ -2,6 +2,11 @@
 Read/Write cookies in Echo.
 
 By Thanh Ba Nguyen @ btnguyen2k/gosample-echo.g8
+
+Summary: using cookies in Echo is straight forward:
+
+  - a cookie is an instance of http.Cookie.
+  - the echo.Context instance passed to the handler function provides functions to get/set cookies.
 */
 package main
 
